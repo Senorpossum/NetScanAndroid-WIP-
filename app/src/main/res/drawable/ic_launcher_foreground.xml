@@ -1,0 +1,40 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:pathData="M54,10C29.7,10 10,29.7 10,54s19.7,44 44,44s44,-19.7 44,-44S78.3,10 54,10zM54,90C34.1,90 18,74 18,54s16.1,-36 36,-36s36,16.1 36,36S73.9,90 54,90z"
+        android:fillColor="#3DDC84"/>
+    <path
+        android:pathData="M54,26C38.5,26 26,38.5 26,54s12.5,28 28,28s28,-12.5 28,-28S69.5,26 54,26zM54,74c-11,0 -20,-9 -20,-20s9,-20 20,-20s20,9 20,20S65,74 54,74z"
+        android:fillColor="#3DDC84"
+        android:fillAlpha="0.6"/>
+    <path
+        android:pathData="M54,42c-6.6,0 -12,5.4 -12,12s5.4,12 12,12s12,-5.4 12,-12S60.6,42 54,42z"
+        android:fillColor="#3DDC84"/>
+    <path
+        android:pathData="M54,54m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0"
+        android:fillColor="#FFFFFF"/>
+    <!-- Radar Sweep Line -->
+    <path
+        android:pathData="M54,54 L54,14"
+        android:strokeWidth="2"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"/>
+    <!-- Decorative Signal Waves -->
+    <path
+        android:pathData="M70,40c2.5,2.5 4,6 4,10s-1.5,7.5 -4,10"
+        android:strokeWidth="3"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:fillAlpha="0"/>
+    <path
+        android:pathData="M78,32c4.5,4.5 7.5,11 7.5,18s-3,13.5 -7.5,18"
+        android:strokeWidth="3"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:fillAlpha="0"
+        android:strokeAlpha="0.4"/>
+</vector>
